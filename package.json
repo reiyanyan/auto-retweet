@@ -1,0 +1,16 @@
+{
+  "name": "rei",
+  "version": "1.0.0",
+  "description": "rei bot",
+  "main": "index.js",
+  "scripts": {
+    "rei": "node index.js",
+  },
+  "author": "reiyan",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.1",
+    "puppeteer": "^13.0.1"
+  },
+  "type": "module"
+}
