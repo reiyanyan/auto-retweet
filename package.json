@@ -4,7 +4,7 @@
   "description": "rei bot",
   "main": "index.js",
   "scripts": {
-    "rei": "node index.js",
+    "rei": "node index.js"
   },
   "author": "reiyan",
   "license": "ISC",
